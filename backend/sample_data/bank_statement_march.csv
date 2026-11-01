@@ -1,0 +1,17 @@
+date,description,debit,credit,balance,category
+2025-03-01,Opening Balance,,,45230.50,
+2025-03-03,Transfer from Client - ABC Corp,,15000.00,60230.50,Revenue
+2025-03-05,Payroll - March First Half,18500.00,,41730.50,Payroll
+2025-03-08,Office Rent - March,4200.00,,37530.50,Rent
+2025-03-10,Utilities - Electricity + Internet,385.00,,37145.50,Utilities
+2025-03-12,Insurance Premium - Q1,1250.00,,35895.50,Insurance
+2025-03-15,TechCorp Solutions - INV-001,4250.00,,31645.50,Technology
+2025-03-18,OfficeMax Supplies - INV-002,1890.50,,29755.00,Office Supplies
+2025-03-19,Transfer from Client - XYZ Ltd,,22000.00,51755.00,Revenue
+2025-03-20,TechCorp Solutions - INV-003,4250.00,,47505.00,Technology
+2025-03-20,Payroll - March Second Half,18500.00,,29005.00,Payroll
+2025-03-22,CloudHost Pro - INV-005,599.99,,28405.01,Cloud Services
+2025-03-25,DesignCo Studio - INV-004,3200.00,,25205.01,Design
+2025-03-28,Petty Cash Withdrawal,500.00,,24705.01,Miscellaneous
+2025-03-29,Transfer from Client - DEF Inc,,8500.00,33205.01,Revenue
+2025-03-31,Bank Service Charges,45.00,,33160.01,Fees

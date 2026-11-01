@@ -1,0 +1,11 @@
+receipt_id,date,vendor,amount,category,payment_method,description,employee
+REC-001,2025-03-02,Starbucks,18.50,Meals,Corporate Card,Team coffee meeting,John Lee
+REC-002,2025-03-05,Grab,34.20,Transport,Corporate Card,Client meeting - CBD,Sarah Tan
+REC-003,2025-03-08,Popular Bookstore,89.90,Office Supplies,Corporate Card,Reference books x3,John Lee
+REC-004,2025-03-11,Thai Express,156.00,Meals,Corporate Card,Team lunch (6 pax),Mike Chen
+REC-005,2025-03-14,Shell,85.00,Transport,Corporate Card,Fuel - company vehicle,Sarah Tan
+REC-006,2025-03-17,Daiso,42.30,Office Supplies,Corporate Card,Stationery and organizers,Rachel Ng
+REC-007,2025-03-20,McDonald's,67.80,Meals,Corporate Card,Working dinner (4 pax),Mike Chen
+REC-008,2025-03-22,Comfort DelGro,28.50,Transport,Corporate Card,Airport pickup - client visit,Sarah Tan
+REC-009,2025-03-25,Cold Storage,124.50,Meals,Corporate Card,Office pantry supplies,Rachel Ng
+REC-010,2025-03-28,Challenger,299.00,Technology,Corporate Card,USB-C hub and cables,John Lee

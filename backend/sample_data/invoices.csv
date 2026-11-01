@@ -1,0 +1,9 @@
+invoice_number,vendor,amount,date,category,description,po_number,status
+INV-001,TechCorp Solutions,4250.00,2025-03-15,Technology,Annual software license renewal - Enterprise Suite,PO-2025-0341,Paid
+INV-002,OfficeMax Supplies,1890.50,2025-03-18,Office Supplies,Bulk order: printer paper reams x50 toner cartridges x12 pens x100,,Paid
+INV-003,TechCorp Solutions,4250.00,2025-03-20,Technology,Annual software license renewal - Enterprise Suite,,Pending
+INV-004,DesignCo Studio,3200.00,2025-03-25,Design,Website redesign phase 2 - UI/UX mockups and prototyping,PO-2025-0355,Paid
+INV-005,CloudHost Pro,599.99,2025-03-22,Cloud Services,Monthly hosting plan - 3x dedicated servers March 2025,PO-2025-0348,Paid
+INV-006,FastShip Logistics,12750.00,2025-02-10,Logistics,Warehouse-to-store distribution Q1 bulk shipment,,Paid
+INV-007,Amazon Web Services,2340.75,2025-02-15,Cloud Services,AWS monthly bill Feb 2025 - EC2 S3 RDS Lambda,PO-2025-0322,Paid
+INV-008,TechCorp Solutions,4100.00,2025-01-10,Technology,Annual software license renewal - Standard Suite,PO-2025-0298,Paid
