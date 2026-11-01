@@ -24,7 +24,7 @@ User uploads PDFs/CSVs
    React Frontend (Dynamic Dashboard + Chat + File Upload)
 ```
 
-## Tech Stack (All FREE)
+## Tech Stack
 
 | Layer | Technology | Purpose |
 |-------|-----------|---------|
