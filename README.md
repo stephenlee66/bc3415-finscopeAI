@@ -40,7 +40,7 @@ User uploads PDFs/CSVs
 ## Quick Start
 
 ### Prerequisites
-- Python 3.10+
+- Python 3.13.9
 - Node.js 18+
 - Google Gemini API Key (free from https://aistudio.google.com/apikey)
 
